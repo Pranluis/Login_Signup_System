@@ -6,6 +6,14 @@ Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python int
 
 This system have multiple function such as sign in, sign up , forgot password, with this there are many assist messagebox which helps to assist if you provide any wrong input in the system
 
+You have to download all files and put in a single folder.
+Then just open any text editor with compiler like, VS code and open the same folder.
+Now run the python file and your system will start working
+
+If any error come for any absence of any library which mostly pillow one.
+then just goto terminal and type
+pip install pillow
+
 ![loginpage](https://github.com/Pranluis/Login_Signup_System/assets/95604793/d9e471a3-5410-415f-a30b-469279707b7b)
 
 This is the picture for login page in the system
